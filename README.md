@@ -2,7 +2,8 @@
 
 A simple todo list application built with React, where you can add, mark as done, and remove tasks.
 
-![Todo List App Screenshot](screenshot.png)
+![image](https://github.com/18-ashish-sharma/recat-todo/assets/74248496/62bb74bd-a5ba-4e8a-8f82-7744aa7f90a3)
+
 
 ## Features
 
